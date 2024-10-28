@@ -4,5 +4,5 @@ age = 17
 print(age)
 age = age + 1
 print(age)
-Is_Student = (True)
+is_student = (True)
 print(Is_Student)
